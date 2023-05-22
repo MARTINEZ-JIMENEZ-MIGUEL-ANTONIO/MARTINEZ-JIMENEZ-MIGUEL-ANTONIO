@@ -2,7 +2,6 @@
 ##Headers (Underline)
 
 HOLA SOY MIGUEL (Underline)
-=============
 <!--
 **MARTINEZ-JIMENEZ-MIGUEL-ANTONIO/MARTINEZ-JIMENEZ-MIGUEL-ANTONIO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
