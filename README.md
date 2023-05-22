@@ -1,7 +1,7 @@
 
 HOLA, SOY MIGUEL 💻</>
 =============
-## Pyuedes encontrarme en:
+## Puedes encontrarme en:
 - [Mi Web Personal](https://MARTINEZ-JIMENEZ-MIGUEL-ANTONIO.github.io)
 <!--
 **MARTINEZ-JIMENEZ-MIGUEL-ANTONIO/MARTINEZ-JIMENEZ-MIGUEL-ANTONIO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
