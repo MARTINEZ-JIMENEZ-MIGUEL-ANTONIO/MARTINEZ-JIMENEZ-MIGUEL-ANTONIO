@@ -1,9 +1,11 @@
 ### Hi there 👋
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+##Headers (Underline)
+
+H1 Header (Underline)
+=============
 <!--
 **MARTINEZ-JIMENEZ-MIGUEL-ANTONIO/MARTINEZ-JIMENEZ-MIGUEL-ANTONIO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-H1 Header (Underline)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
