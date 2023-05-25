@@ -8,11 +8,17 @@ HOLA, SOY MIGUEL 💻</>
 
 Sobre mí
 =============
-Soy un principiante futuro ingerniero en software y me especializo en Desarrollo Web y Desarrollo en Moviles Android...
+Soy un programador y aquí encontrarás información sobre mí, mis habilidades y proyectos recientes.
+- 🌱 Actualmente estoy estudiando [Ing. Software].
+- 💻 Me especializo mas en [Desarrollo Web].
 
 ## Puedes encontrarme en:
 - [Mi Web Personal](https://MARTINEZ-JIMENEZ-MIGUEL-ANTONIO.github.io)
 - [LinkedIn](https://www.linkedin.com/in/miguel-antonio-martínez-jiménez-90257021b/)
+
+## Proyectos Recientes
+- [Poo-Estructura-23CV]([enlace-al-proyecto-1](https://github.com/MARTINEZ-JIMENEZ-MIGUEL-ANTONIO/Poo-Estructura-23CV)).
+
 ## Contacto:
 - Email: miguelamtzjimenez@gmail.com
 
