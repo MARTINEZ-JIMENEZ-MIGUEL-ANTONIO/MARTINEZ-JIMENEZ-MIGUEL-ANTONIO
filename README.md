@@ -12,14 +12,12 @@ Soy un programador y aquí encontrarás información sobre mí, mis habilidades 
 - 🌱 Actualmente estoy estudiando [Ing. Software].
 - 💻 Me especializo mas en [Desarrollo Web].
 
-## Puedes encontrarme en:
-- [Mi Web Personal](https://MARTINEZ-JIMENEZ-MIGUEL-ANTONIO.github.io)
-- [LinkedIn](https://www.linkedin.com/in/miguel-antonio-martínez-jiménez-90257021b/)
-
 ## Proyectos Recientes
 - [Poo-Estructura-23CV]([enlace-al-proyecto-1](https://github.com/MARTINEZ-JIMENEZ-MIGUEL-ANTONIO/Poo-Estructura-23CV)).
 
-## Contacto:
+## Puedes encontrarme en:
+- [Mi Web Personal](https://MARTINEZ-JIMENEZ-MIGUEL-ANTONIO.github.io)
+- [LinkedIn](https://www.linkedin.com/in/miguel-antonio-martínez-jiménez-90257021b/)
 - Email: miguelamtzjimenez@gmail.com
 
 <!--
