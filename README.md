@@ -12,6 +12,15 @@ Soy un programador y aquí encontrarás información sobre mí, mis habilidades 
 - 🌱 Actualmente estoy estudiando [Ing. Software].
 - 💻 Me especializo mas en [Desarrollo Web].
 
+## Habilidades
+- [C#]:  ![Lenguaje 1](https://img.shields.io/badge/Nivel-Intermedio-brightgreen)
+- [C++]:  ![Lenguaje 2](https://img.shields.io/badge/Nivel-Intermedio-brightgreen)
+- [HTML/CSS]:  ![Lenguaje 3](https://img.shields.io/badge/Nivel-Avanzado-brightgreen)
+- [JS]:  ![Lenguaje 4](https://img.shields.io/badge/Nivel-Intermedio-brightgreen)
+- [SQL Server]:  ![Lenguaje 5](https://img.shields.io/badge/Nivel-Principiante-brightgreen)
+- [PHP]:  ![Lenguaje 6](https://img.shields.io/badge/Nivel-Principiante-brightgreen)
+- [Python]:  ![Lenguaje 7](https://img.shields.io/badge/Nivel-Principiante-brightgreen)
+
 ## Proyectos Recientes
 - [Poo-Estructura-23CV]([enlace-al-proyecto-1](https://github.com/MARTINEZ-JIMENEZ-MIGUEL-ANTONIO/Poo-Estructura-23CV)).
 
