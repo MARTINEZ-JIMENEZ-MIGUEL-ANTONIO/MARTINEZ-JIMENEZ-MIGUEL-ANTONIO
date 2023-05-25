@@ -3,6 +3,7 @@ HOLA, SOY MIGUEL 💻</>
 =============
 ## Puedes encontrarme en:
 - [Mi Web Personal](https://MARTINEZ-JIMENEZ-MIGUEL-ANTONIO.github.io)
+- [LinkedIn](https://www.linkedin.com/in/miguel-antonio-martínez-jiménez-90257021b/)
 <!--
 **MARTINEZ-JIMENEZ-MIGUEL-ANTONIO/MARTINEZ-JIMENEZ-MIGUEL-ANTONIO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
