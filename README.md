@@ -22,7 +22,8 @@ Soy un programador y aquí encontrarás información sobre mí, mis habilidades 
 - [Python]:  ![Lenguaje 7](https://img.shields.io/badge/Nivel-Principiante-brightgreen)
 
 ## Proyectos Recientes
-- [Poo-Estructura-23CV]([enlace-al-proyecto-1](https://github.com/MARTINEZ-JIMENEZ-MIGUEL-ANTONIO/Poo-Estructura-23CV)).
+- [Poo-Estructura-23CV]([enlace-al-proyecto-1](https://github.com/MARTINEZ-JIMENEZ-MIGUEL-ANTONIO/Poo-Estructura23CV)).
+- [Arbol Binario](https://github.com/MARTINEZ-JIMENEZ-MIGUEL-ANTONIO/Arbol-Binario).
 
 ## Puedes encontrarme en:
 - [Mi Web Personal](https://MARTINEZ-JIMENEZ-MIGUEL-ANTONIO.github.io)
