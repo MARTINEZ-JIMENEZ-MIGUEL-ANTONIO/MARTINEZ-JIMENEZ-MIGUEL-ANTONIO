@@ -1,7 +1,6 @@
 
 HOLA, SOY MIGUEL 💻</>
 ==============
-
 <p align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Imagen redonda" width="150px">
 </p>
