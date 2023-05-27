@@ -12,6 +12,11 @@ Soy un programador y aquí encontrarás información sobre mí, mis habilidades 
 - 💻 Me especializo mas en [Desarrollo Web].
 
 ## Habilidades
+<p>
+    <img src="https://www.dishalive.com/assets/oi/2.gif" align="right" alt="GIF" width="350px">
+  <!--https://www.dishalive.com/assets/oi/2.gif https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif https://valesh.dev/images/coder.gif-->
+</p>
+
 - [C#]:  ![Lenguaje 1](https://img.shields.io/badge/Nivel-Intermedio-brightgreen)
 - [C++]:  ![Lenguaje 2](https://img.shields.io/badge/Nivel-Intermedio-brightgreen)
 - [HTML/CSS]:  ![Lenguaje 3](https://img.shields.io/badge/Nivel-Avanzado-brightgreen)
