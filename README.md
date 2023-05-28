@@ -1,7 +1,6 @@
 
 HOLA, SOY MIGUEL 💻</>
 ==============
-
 <p align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Imagen redonda" width="150px">
 </p>
@@ -27,8 +26,8 @@ Soy un programador y aquí encontrarás información sobre mí, mis habilidades 
 - [Python]:  ![Lenguaje 7](https://img.shields.io/badge/Nivel-Principiante-brightgreen)
 
 ## Proyectos Recientes
-- [Poo-Estructura-23CV](https://github.com/MARTINEZ-JIMENEZ-MIGUEL-ANTONIO/Poo-Estructura23CV)
-- [Arbol Binario](https://github.com/MARTINEZ-JIMENEZ-MIGUEL-ANTONIO/Arbol-Binario)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MARTINEZ-JIMENEZ-MIGUEL-ANTONIO&repo=Poo-Estructura23CV)](https://github.com/MARTINEZ-JIMENEZ-MIGUEL-ANTONIO/Poo-Estructura23CV)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MARTINEZ-JIMENEZ-MIGUEL-ANTONIO&repo=Arbol-Binario)](https://github.com/MARTINEZ-JIMENEZ-MIGUEL-ANTONIO/Arbol-Binario)
 
 ## Puedes encontrarme en:
 - [Mi Web Personal](https://MARTINEZ-JIMENEZ-MIGUEL-ANTONIO.github.io)
