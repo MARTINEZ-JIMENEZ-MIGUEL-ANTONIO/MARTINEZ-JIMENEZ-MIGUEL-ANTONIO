@@ -93,6 +93,14 @@ I am a programmer and here you will find information about me, my skills and rec
 ![MARTINEZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=MARTINEZ-JIMENEZ-MIGUEL-ANTONIO&show_icons=true&border_color=1e1e1e&bg_color=1e1e1e&text_color=ffffff&custom_title=Miguel%20Antonio%20GitHub%20stats)
 
 ## Puedes encontrarme en:
+
+<p align="left">
+      <a href="https://github.com/MARTINEZ-JIMENEZ-MIGUEL-ANTONIO?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/MARTINEZ-JIMENEZ-MIGUEL-ANTONIO?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/MARTINEZ-JIMENEZ-MIGUEL-ANTONIO?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/MARTINEZ-JIMENEZ-MIGUEL-ANTONIO?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   </p>
+   
 - [Mi Web Personal](https://MARTINEZ-JIMENEZ-MIGUEL-ANTONIO.github.io)
 - [LinkedIn](https://www.linkedin.com/in/miguel-antonio-martínez-jiménez-90257021b/)
 - Email: miguelamtzjimenez@gmail.com
