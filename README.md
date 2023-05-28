@@ -17,6 +17,10 @@ Soy un programador y aquí encontrarás información sobre mí, mis habilidades 
   <!--https://www.dishalive.com/assets/oi/2.gif https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif https://valesh.dev/images/coder.gif-->
 </p>
 
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MARTINEZ-JIMENEZ-MIGUEL-ANTONIO&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
 - [C#]:  ![Lenguaje 1](https://img.shields.io/badge/Nivel-Intermedio-brightgreen)
 - [C++]:  ![Lenguaje 2](https://img.shields.io/badge/Nivel-Intermedio-brightgreen)
 - [HTML/CSS]:  ![Lenguaje 3](https://img.shields.io/badge/Nivel-Avanzado-brightgreen)
@@ -26,8 +30,8 @@ Soy un programador y aquí encontrarás información sobre mí, mis habilidades 
 - [Python]:  ![Lenguaje 7](https://img.shields.io/badge/Nivel-Principiante-brightgreen)
 
 ## Proyectos Recientes
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MARTINEZ-JIMENEZ-MIGUEL-ANTONIO&repo=Poo-Estructura23CV)](https://github.com/MARTINEZ-JIMENEZ-MIGUEL-ANTONIO/Poo-Estructura23CV)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MARTINEZ-JIMENEZ-MIGUEL-ANTONIO&repo=Arbol-Binario)](https://github.com/MARTINEZ-JIMENEZ-MIGUEL-ANTONIO/Arbol-Binario)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MARTINEZ-JIMENEZ-MIGUEL-ANTONIO&repo=Poo-Estructura23CV&theme=dark)](https://github.com/MARTINEZ-JIMENEZ-MIGUEL-ANTONIO/Poo-Estructura23CV)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MARTINEZ-JIMENEZ-MIGUEL-ANTONIO&repo=Arbol-Binario&theme=dark)](https://github.com/MARTINEZ-JIMENEZ-MIGUEL-ANTONIO/Arbol-Binario)
 
 ## Puedes encontrarme en:
 - [Mi Web Personal](https://MARTINEZ-JIMENEZ-MIGUEL-ANTONIO.github.io)
