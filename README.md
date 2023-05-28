@@ -1,6 +1,7 @@
 
 HOLA, SOY MIGUEL 💻</>
 ==============
+
 <p align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Imagen redonda" width="150px">
 </p>
@@ -33,6 +34,7 @@ Soy un programador y aquí encontrarás información sobre mí, mis habilidades 
 - [Mi Web Personal](https://MARTINEZ-JIMENEZ-MIGUEL-ANTONIO.github.io)
 - [LinkedIn](https://www.linkedin.com/in/miguel-antonio-martínez-jiménez-90257021b/)
 - Email: miguelamtzjimenez@gmail.com
+
 
 <!--
 **MARTINEZ-JIMENEZ-MIGUEL-ANTONIO/MARTINEZ-JIMENEZ-MIGUEL-ANTONIO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
