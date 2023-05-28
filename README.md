@@ -4,7 +4,7 @@
   <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Imagen redonda" width="150px">
 </p>
 
-## About me
+## 🚀 About me!
 
 **`Student (programmer/Developer/Creator)`**
 
@@ -18,7 +18,7 @@ I am a programmer I am based on the web developer I am Full-Stack. All projects 
 
 ---
 
-### 🧰 Languages and Tools
+### 🧰 Languages and Tools!
 
 <!--
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -82,13 +82,13 @@ I am a programmer I am based on the web developer I am Full-Stack. All projects 
 
 <br>
 
-## Recent Projects
+## 👨‍💻 Recent Projects!
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MARTINEZ-JIMENEZ-MIGUEL-ANTONIO&repo=Poo-Estructura23CV&border_color=1e1e1e&bg_color=1e1e1e&text_color=ffffff)](https://github.com/MARTINEZ-JIMENEZ-MIGUEL-ANTONIO/Poo-Estructura23CV)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MARTINEZ-JIMENEZ-MIGUEL-ANTONIO&repo=Arbol-Binario&border_color=1e1e1e&bg_color=1e1e1e&text_color=ffffff)](https://github.com/MARTINEZ-JIMENEZ-MIGUEL-ANTONIO/Arbol-Binario)
 
 <br>
 
-## 📊 Stats
+## 📊 Stats!
 
 <p>
     <img src="https://www.dishalive.com/assets/oi/2.gif" align="right" alt="GIF" width="320px">
@@ -97,7 +97,7 @@ I am a programmer I am based on the web developer I am Full-Stack. All projects 
 
 ![MARTINEZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=MARTINEZ-JIMENEZ-MIGUEL-ANTONIO&show_icons=true&border_color=1e1e1e&bg_color=1e1e1e&text_color=ffffff&custom_title=Miguel%20Antonio%20GitHub%20stats)
 
-## Puedes encontrarme en:
+## ☕ Connect with me!
    
 - [Mi Web Personal](https://MARTINEZ-JIMENEZ-MIGUEL-ANTONIO.github.io)
 - [LinkedIn](https://www.linkedin.com/in/miguel-antonio-martínez-jiménez-90257021b/)
