@@ -97,9 +97,9 @@ I am a programmer and here you will find information about me, my skills and rec
 <p align="left">
       <a href="https://github.com/MARTINEZ-JIMENEZ-MIGUEL-ANTONIO?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/MARTINEZ-JIMENEZ-MIGUEL-ANTONIO?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/MARTINEZ-JIMENEZ-MIGUEL-ANTONIO?tab=repositories&sort=stargazers">
+      <a href="https://github.com/MARTINEZ-JIMENEZ-MIGUEL-ANTONIO?tab=repositories">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/MARTINEZ-JIMENEZ-MIGUEL-ANTONIO?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+</p>
    
 - [Mi Web Personal](https://MARTINEZ-JIMENEZ-MIGUEL-ANTONIO.github.io)
 - [LinkedIn](https://www.linkedin.com/in/miguel-antonio-martínez-jiménez-90257021b/)
