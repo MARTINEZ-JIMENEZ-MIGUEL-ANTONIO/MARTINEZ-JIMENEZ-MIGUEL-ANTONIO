@@ -32,7 +32,7 @@ Soy un programador y aquí encontrarás información sobre mí, mis habilidades 
 - [Python]:  ![Lenguaje 7](https://img.shields.io/badge/Nivel-Principiante-brightgreen)
 
 ## Proyectos Recientes
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MARTINEZ-JIMENEZ-MIGUEL-ANTONIO&repo=Poo-Estructura23CV&theme=dark&border_color=151515)](https://github.com/MARTINEZ-JIMENEZ-MIGUEL-ANTONIO/Poo-Estructura23CV)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MARTINEZ-JIMENEZ-MIGUEL-ANTONIO&repo=Poo-Estructura23CV&border_color=151515&bg_color=161b22)](https://github.com/MARTINEZ-JIMENEZ-MIGUEL-ANTONIO/Poo-Estructura23CV)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MARTINEZ-JIMENEZ-MIGUEL-ANTONIO&repo=Arbol-Binario&theme=dark&border_color=151515)](https://github.com/MARTINEZ-JIMENEZ-MIGUEL-ANTONIO/Arbol-Binario)
 
 ## Puedes encontrarme en:
