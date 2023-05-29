@@ -99,6 +99,12 @@ I am a programmer I am based on the web developer I am Full-Stack. All projects 
 
 ## ☕ Connect with me!
    
+<p align="left">
+  <a href="https://www.linkedin.com/in/miguel-antonio-martínez-jiménez-90257021b/">
+         <img alt="LinkedIn" title="Follow me on LinkedIn" src="https://custom-icon-badges.demolab.com/github/followers/MARTINEZ-JIMENEZ-MIGUEL-ANTONIO?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=LinkedIn&logoColor=white"/>
+   </a>
+</p>
+
 - [Mi Web Personal](https://MARTINEZ-JIMENEZ-MIGUEL-ANTONIO.github.io)
 - [LinkedIn](https://www.linkedin.com/in/miguel-antonio-martínez-jiménez-90257021b/)
 - Email: miguelamtzjimenez@gmail.com
