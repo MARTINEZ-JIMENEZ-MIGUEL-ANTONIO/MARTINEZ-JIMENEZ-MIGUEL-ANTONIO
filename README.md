@@ -105,6 +105,9 @@ I am a programmer I am based on the web developer I am Full-Stack. All projects 
    </a>
 </p>
 
+[![DEV.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/martinezjimenezmiguelantonio)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-antonio-martínez-jiménez-90257021b/)
+
 - [Mi Web Personal](https://MARTINEZ-JIMENEZ-MIGUEL-ANTONIO.github.io)
 - [LinkedIn](https://www.linkedin.com/in/miguel-antonio-martínez-jiménez-90257021b/)
 - Email: miguelamtzjimenez@gmail.com
