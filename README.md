@@ -10,12 +10,6 @@
 
 I am a programmer I am based on the web developer I am Full-Stack. All projects and programs are coded from scratch.
 - 🌱 I am currently studying [Ing. Software].
-
-<p align="left">
-      <a href="https://github.com/MARTINEZ-JIMENEZ-MIGUEL-ANTONIO?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/MARTINEZ-JIMENEZ-MIGUEL-ANTONIO?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-</p>
-
 ---
 
 ### 🧰 Languages and Tools!
@@ -99,12 +93,11 @@ I am a programmer I am based on the web developer I am Full-Stack. All projects 
 
 ## ☕ Connect with me!
 
-[![DEV.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logoColor=white)](https://dev.to/martinezjimenezmiguelantonio)
+[![Followers](https://custom-icon-badges.demolab.com/github/followers/MARTINEZ-JIMENEZ-MIGUEL-ANTONIO?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white)](https://github.com/MARTINEZ-JIMENEZ-MIGUEL-ANTONIO?tab=followers) 
+[![My Website Portfolio](https://img.shields.io/badge/My%20Website%20Portfolio-51b3b1?style=for-the-badge&logoColor=white)](https://MARTINEZ-JIMENEZ-MIGUEL-ANTONIO.github.io) 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/miguel-antonio-martínez-jiménez-90257021b/)
+[![DEV.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logoColor=white)](https://dev.to/martinezjimenezmiguelantonio)
 [![Gmail](https://img.shields.io/badge/gmail-e02e23?style=for-the-badge&logoColor=white)](mailto:miguelamtzjimenez@gmail.com)
-[![My Website Portfolio](https://img.shields.io/badge/My%20Website%20Portfolio-51b3b1?style=for-the-badge&logoColor=white)](https://MARTINEZ-JIMENEZ-MIGUEL-ANTONIO.github.io)
-
-[![Correo electrónico](https://img.shields.io/badge/Enviar%20correo-Gmail-red)](mailto:tuemail@gmail.com)
 
 <!--
 **MARTINEZ-JIMENEZ-MIGUEL-ANTONIO/MARTINEZ-JIMENEZ-MIGUEL-ANTONIO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
